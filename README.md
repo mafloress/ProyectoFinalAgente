@@ -1,5 +1,16 @@
 # GastroGuía: Tu Asistente Culinario Personal
+Miguel Ángel Flores Saldívar
 
+## Uso de LLMs y Agentes IA
+Se utilizaron los siguientes LLMs para poder tomar ideas para tomar la base del proyecto y buscar fuentes reales de datos para el proyecto, se hizo la comparativa entre cada respuesta de cada uno y se escogío la mas ad hoc:
+- Gemini
+- Copilot
+- Deepseek
+- ChatGPT
+
+Se utilizó adicional para documentación e implementación en Github:
+- Jules Google
+  
 ## Descripción Breve
 
 GastroGuía es un agente inteligente diseñado para ayudarte a descubrir tu próxima comida deliciosa. Su propósito principal es recomendarte restaurantes basándose en tu ubicación actual o deseada y tus preferencias culinarias o antojos del momento. ¡Dile a GastroGuía dónde estás y qué se te antoja, y te dará algunas sugerencias!
