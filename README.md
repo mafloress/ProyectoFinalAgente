@@ -13,7 +13,7 @@ Se utilizó adicional para documentación e implementación en Github:
   
 ## Descripción Breve
 
-GastroGuía es un agente inteligente diseñado para ayudarte a descubrir tu próxima comida deliciosa. Su propósito principal es recomendarte restaurantes basándose en tu ubicación actual o deseada y tus preferencias culinarias o antojos del momento. ¡Dile a GastroGuía dónde estás y qué se te antoja, y te dará algunas sugerencias!
+GastroGuía es un agente inteligente diseñado para ayudarte a descubrir tu próxima comida deliciosa. Su propósito principal es recomendarte restaurantes basándose en tu ubicación actual o deseada y tus preferencias culinarias o antojos del momento. ¡Dile a GastroGuía dónde estás y qué se te antoja, y te dará algunas sugerencias! Se hicieron dos propuestas una en python con datos prescritos y otro desarrollado en Google AI Studio (archivo: gastroguía.zip)
 
 ## Cómo Funciona (Descripción General)
 
